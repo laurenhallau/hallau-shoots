@@ -9,13 +9,11 @@ body {
 }
 
 .mosaic-left {
-  /*padding: 4px 0px 4px 15px;*/
-  padding: 3% 0% 1% 5%;
+  padding: 4px 0px 4px 15px;
 }
 
 .mosaic-right {
-  /*padding: 4px 15px 4px 0px;*/
-  padding: 3% 5% 1% 0%;
+  padding: 4px 15px 4px 0px;
 }
 
 .btn {
@@ -60,6 +58,12 @@ body {
 
 p {
   color: #efefef;
+}
+
+p.footer {
+  text-align: right;
+  font-size: 8pt;
+  padding-right: 16px;
 }
 
 .highlight {
